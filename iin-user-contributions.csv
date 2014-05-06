@@ -1,2 +1,3 @@
 iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,bank_url,bank_phone,bank_city
 516746,MASTERCARD,,DEBIT,,GE,Bank of Georgia,http://www.bankofgeorgia.ge/,+995 32 244 44 44,Tbilisi
+4571**,VISA,Dankort,DEBIT,DK,TELLER A/S,http://www.teller.com/,+45 44 89 24 80,Copenhagen
