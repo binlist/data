@@ -3,3 +3,6 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 4571**,VISA,Dankort,DEBIT,CLASSIC,DK,TELLER A/S,http://www.teller.com/,+45 44 89 24 80,Copenhagen
 431947,VISA,,DEBIT,,IE,ALLIED IRISH BANKS PLC,http://www.aib.ie/,+353 16600311,Dublin
 431940,VISA,,DEBIT,,IE,BANK OF IRELAND,http://www.bankofireland.com/,+353 567757007,Dublin
+467765,VISA,IPKO,PREPAID,,QZ,RAIFFEISEN BANK,http://www.raiffeisen-kosovo.com/,+381 38 222 222,Prishtine
+410131,VISA,ELECTRON,DEBIT,,QZ,PROCREDIT BANK,http://www.procreditbank-kos.com/,+381 38 555 555, Prishtine
+410687,VISA,ELECTRON,DEBIT,,QZ,RAIFFEISEN BANK,http://www.raiffeisen-kosovo.com/,+381 38 222 222,Prishtine
