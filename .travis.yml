@@ -1,0 +1,12 @@
+language: ruby
+rvm:
+  - 2.1.1
+before_install:
+  - 'echo ''gem: --no-ri --no-rdoc'' > ~/.gemrc'
+cache: bundler
+install:
+  - bundle install
+script:
+  - "for file in `ls *.csv` ; do csvlint $file ; done"
+notifications:
+  - email: false
