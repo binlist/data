@@ -1,4 +1,6 @@
 iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,bank_url,bank_phone,bank_city
+446521,VISA,ELLECTRON,DEBIT,,GEORGIA,Liberty Bank JSC ,www.libertybank.ge,+995 32 255 55 00,Tbilisi
+412570,VISA,ELLECTRON,DEBIT,,GEORGIA,Liberty Bank JSC ,www.libertybank.ge,+995 32 255 55 00,Tbilisi
 410131,VISA,ELECTRON,DEBIT,,QZ,PROCREDIT BANK,www.procreditbank-kos.com,+381 38 555 555, Prishtine
 410687,VISA,ELECTRON,DEBIT,,QZ,RAIFFEISEN BANK,www.raiffeisen-kosovo.com,+381 38 222 222,Prishtine
 431940,VISA,,DEBIT,,IE,BANK OF IRELAND,www.bankofireland.com,+353 567757007,Dublin
