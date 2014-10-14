@@ -10,6 +10,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 410687,VISA,ELECTRON,DEBIT,,QZ,RAIFFEISEN BANK,www.raiffeisen-kosovo.com,+381 38 222 222,Prishtine
 431940,VISA,,DEBIT,,IE,BANK OF IRELAND,www.bankofireland.com,+353 567757007,Dublin
 431947,VISA,,DEBIT,,IE,ALLIED IRISH BANKS PLC,www.aib.ie,+353 16600311,Dublin
+557909,MASTERCARD,,DEBIT,,MX,BANCO SANTANDER S.A,,,MEXICO CITY
 45710040,VISA,DANKORT,DEBIT,CLASSIC,DK,Nordea,www.nordea.dk,+4570333333,Vordingborg
 45710041,VISA,DANKORT,DEBIT,CLASSIC,DK,Nordea,www.nordea.dk,+4570333333,Vordingborg
 45710042,VISA,DANKORT,DEBIT,CLASSIC,DK,Nordea,www.nordea.dk,+4570333333,Vordingborg
