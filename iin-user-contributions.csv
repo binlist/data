@@ -3560,3 +3560,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 467765,VISA,IPKO,PREPAID,,QZ,RAIFFEISEN BANK,www.raiffeisen-kosovo.com,+381 38 222 222,Prishtine
 516746,MASTERCARD,,DEBIT,,GE,Bank of Georgia,www.bankofgeorgia.ge,+995 32 244 44 44,Tbilisi
 516968,MASTERCARD,,DEBIT,,IE,KBC Bank Ireland,www.kbc.ie,+35316347963,Dublin
+621483,CHINA UNION PAY,,DEBIT,,CN,CHINA MERCHANTS BANK,www.cmbchina.com,+86 95555,Shenzhen
+622305,CHINA UNION PAY,,DEBIT,,CN,BANK OF NANJING,www.njcb.com.cn,+86 96400,Nanjing
+622202,CHINA UNION PAY,,DEBIT,,CN,ICBC,www.icbc.com.cn,+86 95588,Beijing
+622698,CHINA UNION PAY,,DEBIT,,CN,CHINA CITIC BANK,bank.ecitic.com,+86 95558,
