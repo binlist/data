@@ -1,7 +1,7 @@
 binlist-data
 =========
 
-Build status: ![Build
+![Build
 status](https://api.travis-ci.org/binlist/binlist-data.svg)
 
 A public repository of Issuer Identification Numbers ([IIN][IIN]) (previously
