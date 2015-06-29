@@ -19,6 +19,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 525320,MASTERCARD,ELECTRON,CREDIT,,BR,ITAU UNIBANCO S/A,www.itau.com.br,+55 11 3003 3030,Sao Paulo
 529204,MASTERCARD,,CREDIT,STANDARD,IT,CARTASI S.P.A.,www.cartasi.it,+390234980020,Milan
 531306,MASTERCARD,,PREPAID,,GB,Wirecard Card Solutions,www.wirecard-cardsolutions.com,+44 019 1227 5450,Newcastle Upon Tyne
+557385,MASTERCARD,,CREDIT,,NO,DANSKE BANK A/S,,,
 559405,MASTERCARD,,DEBIT,PLATINUM,IN,ICICI BANK,www.icicibank.com,+91 22 26531414,Mumbai
 559460,MASTERCARD,,CREDIT,,US,CO-OP Financial Services,www.co-opfs.org, +1 800 782 9042, Rancho Cucamonga
 621483,CHINA UNION PAY,,DEBIT,,CN,CHINA MERCHANTS BANK,www.cmbchina.com,+86 95555,Shenzhen
