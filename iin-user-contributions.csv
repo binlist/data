@@ -4,6 +4,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 555949,MASTERCARD,,DEBIT,PLATINUM,RU,Alfa-Bank,www.alfabank.ru,+7 495 78-888-78,Moscow
 361766,DINERS CLUB,,CREDIT,PRESTIGE,CZ,DINERS CLUB INTERNATIONAL CS,www.dinersclub.cz,+420 255 712 712,PRAGUE
 370245,AMERICAN EXPRESS,,CREDIT,PRESTIGE,VE,BANESCO BANCO UNIVERSAL S.A.,www.banesco.com,+58 212 501 11 11,CARACAS
+401350,VISA,,DEBIT,,US,Metropolitan Commercial Bank,http://www.metropolitanbankny.com/,,New York City
 410131,VISA,ELECTRON,DEBIT,,QZ,PROCREDIT BANK,www.procreditbank-kos.com,+381 38 555 555,Prishtine
 410687,VISA,ELECTRON,DEBIT,,QZ,RAIFFEISEN BANK,www.raiffeisen-kosovo.com,+381 38 222 222,Prishtine
 412570,VISA,ELECTRON,DEBIT,,GE,Liberty Bank JSC,www.libertybank.ge,+995 32 255 55 00,Tbilisi
