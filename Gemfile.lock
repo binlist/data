@@ -20,6 +20,7 @@ GEM
     mime-types (2.6.1)
     minitest (5.7.0)
     open_uri_redirections (0.2.1)
+    rake (10.4.2)
     thread_safe (0.3.5)
     tzinfo (1.2.2)
       thread_safe (~> 0.1)
@@ -29,3 +30,4 @@ PLATFORMS
 
 DEPENDENCIES
   csvlint
+  rake
