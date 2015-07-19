@@ -3,7 +3,7 @@ binlist-data
 
 [![Build status](https://api.travis-ci.org/binlist/binlist-data.svg)][BUILDSTATUS]
 
-A public repository of Issuer Identification Numbers ([IIN][IIN]) (previously
+A public repository of Issuer Identification Numbers ([IIN][IIN]) also 
 called the "Bank Identification Numbers" ([BIN][BIN]).
 
 TODO
