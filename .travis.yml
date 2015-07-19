@@ -7,6 +7,7 @@ cache: bundler
 install:
   - bundle install
 script:
+  - csvlint -d -s iin-user-contributions.schema.json iin-user-contributions.csv
   - "for file in `ls *.csv` ; do csvlint $file ; done"
 notifications:
   - email: false
