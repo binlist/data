@@ -1,0 +1,62 @@
+{
+    "fields": [
+        { 
+            "name": "iin", 
+            "constraints": { 
+              "required": true,
+              "minLength": 6,
+              "maxLength": 8,
+              "pattern": "[0-9]",
+              "unique": true
+            }
+        },
+        { 
+            "name": "card_brand", 
+            "constraints": { 
+              "required": true, 
+              "pattern": "\\A(AMEX|DINERS CLUB INTERNATIONAL|DINERS CLUB|AMERICAN EXPRESS|VISA|MASTERCARD|DISCOVER|UNIONPAY|JCB|MAESTRO|DANKORT)\\Z"
+            } 
+        },
+        { 
+            "name": "card_sub_brand",
+            "constraints": { "required": false } 
+        },
+        {
+            "name": "card_type",
+            "constraints": { 
+              "required": false,
+              "pattern": "\\A(CREDIT|DEBIT|PREPAID|)\\Z"
+            }
+        },
+        {
+            "name": "card_category",
+            "constraints": { 
+              "required": false,
+              "pattern": "\\A(|CLASSIC|STANDARD|PRESTIGE|PLATINUM)\\Z"
+            }
+        },
+        {
+            "name": "country_code",
+            "constraints": { "required": false }
+        },
+        {
+            "name": "bank_name",
+            "constraints": { "required": false }
+        },
+        {
+            "name": "bank_url",
+            "constraints": { 
+              "required": false,
+              "pattern": "\\A([a-z0-9]+([\-\.]{1}[a-z0-9]+)*\.[a-z]{2,5}|)\\Z"
+            }
+        },
+        {
+            "name": "bank_phone",
+            "constraints": { "required": false }
+        },
+        {
+            "name": "bank_city",
+            "constraints": { "required": false }
+        }
+    ]
+}
