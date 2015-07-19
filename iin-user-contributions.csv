@@ -289,7 +289,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 401174,VISA,"","","",US,WHITNEY,"",8008444450,""
 401178,VISA,"","","",BR,BANCO DO BRASIL,"",800-657-6366,""
 401197,VISA,"","","",US,TALBOT,"",4108869802,""
-401350,VISA,,DEBIT,,US,Metropolitan Commercial Bank,http://www.metropolitanbankny.com/,,New York City
+401350,VISA,,DEBIT,,US,Metropolitan Commercial Bank,www.metropolitanbankny.com,,New York City
 401370,VISA,"","","",BR,CAIXA ECONOMICA FEDERAL,"",08007284455,""
 401378,VISA,"","","",US,CONNEX CREDIT UNION,"",8002786466,""
 401398,VISA,"","","",US,USBANK,"",8662344672,""
@@ -4976,7 +4976,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 45719680,VISA,DANKORT,DEBIT,CLASSIC,DK,Danske Bank,www.danskebank.dk,+4545123600,Varde
 45719681,VISA,DANKORT,DEBIT,CLASSIC,DK,Danske Bank,www.danskebank.dk,,
 45719682,VISA,DANKORT,DEBIT,CLASSIC,DK,Sparekassen For Nørre Nebel og Omegn,www.sparnebel.dk,,
-45719684,VISA,DANKORT,DEBIT,CLASSIC,DK,Fanø Sparekasse,Fanø Sparekasse,,
+45719684,VISA,DANKORT,DEBIT,CLASSIC,DK,Fanø Sparekasse,www.fanoespk.dk,,
 45719686,VISA,DANKORT,DEBIT,CLASSIC,DK,Den Jyske Sparekasse,www.djs.dk,,
 45719687,VISA,DANKORT,DEBIT,CLASSIC,DK,Den Jyske Sparekasse,www.djs.dk,,
 45719689,VISA,DANKORT,DEBIT,CLASSIC,DK,Danske Bank,www.danskebank.dk,+4545120770,Esbjerg
@@ -6261,7 +6261,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 540162,MASTERCARD,"","","",MY,OCBC,"",1300885000,""
 540168,MASTERCARD,"","","",US,CHASE,"",8005243880,""
 540185,MASTERCARD,"","","",NO,"","",4721015350,""
-540205,MASTERCARD,,DEBIT,STANDARD,ES,BANCO SABADELL,www.grupbancsabadell.com/,,Barcelona
+540205,MASTERCARD,,DEBIT,STANDARD,ES,BANCO SABADELL,www.grupbancsabadell.com,,Barcelona
 540207,MASTERCARD,"","","",NZ,BANK OF NEW ZEALAND,"",6444709212,""
 540219,MASTERCARD,"","","",US,GTE FINANCIAL,"",8889187793,""
 540223,MASTERCARD,"","","",NZ,WESTPAC BANKING CORPORATION,"",6499148026,""
