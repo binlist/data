@@ -1,8 +1,7 @@
 binlist-data
 =========
 
-![Build
-status](https://api.travis-ci.org/binlist/binlist-data.svg)
+[![Build status](https://api.travis-ci.org/binlist/binlist-data.svg)][BUILDSTATUS]
 
 A public repository of Issuer Identification Numbers ([IIN][IIN]) (previously
 called the "Bank Identification Numbers" ([BIN][BIN]).
@@ -26,3 +25,4 @@ Contributing
 
 [BIN]: http://en.wikipedia.org/wiki/Bank_card_number
 [IIN]: http://en.wikipedia.org/wiki/Bank_card_number
+[BUILDSTATUS]: https://travis-ci.org/binlist/binlist-data/builds
