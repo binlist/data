@@ -6012,7 +6012,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 525482,MASTERCARD,"","","",BR,BANCO DO BRASIL,"",08007090151,""
 525489,MASTERCARD,"","","",AR,HSBC,"",541143405656,""
 525496,MASTERCARD,"","","",BR,ITAU,"",40014428,""
-525500,MASTERCARD,"","","",IT,CARTASI S.P.A.,"",892900,""
+525500,MASTERCARD,"CARTASI GOLD","CREDIT","",IT,CARTASI S.P.A.,"www.cartasi.it",892900,""
 525535,MASTERCARD,"","","",US,"","",0039 023 4881,""
 525590,MASTERCARD,"","","",IT,CARTASI S.P.A.,"",390471946511,""
 525623,MASTERCARD,"","","",US,"","",(302)683-4057,""
