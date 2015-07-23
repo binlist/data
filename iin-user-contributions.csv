@@ -1422,7 +1422,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 454657,VISA,"","","",AR,ICBC,"",541143793434,""
 454659,VISA,"","","",AR,ICBC,"",541143793434,""
 454683,VISA,"","","",SA,RIYAD,"",966920002470,""
-454742,VISA,"","","",GB,SANTANDER,"",08459724724,""
+454742,VISA,"","DEBIT","",GB,SANTANDER,"",08459724724,""
 454750,VISA,"","","",SG,CITIBANK N.A.,"",6562255225,""
 454757,VISA,"","","",ES,CAIXA D%27ENGINYERS,"",34933102626,""
 454803,VISA,"","","",ES,LA CAIXA,"",34-93-4110263,""
