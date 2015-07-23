@@ -5576,7 +5576,7 @@ iin,card_brand,card_sub_brand,card_type,card_category,country_code,bank_name,ban
 492159,VISA,"","","",MY,HSBC,"",1300881388,""
 492163,VISA,"","","",ES,IBERCAJA,"",34976201072,""
 492167,VISA,"","","",ES,KUTXABANK,"",901335566,""
-492181,VISA,"","","",GB,LLOYDS,"",08453000000,""
+492181,VISA,"","DEBIT","",GB,LLOYDS,"",08453000000,""
 492182,VISA,"","","",GB,LLOYDS,"",08453000000,""
 492312,VISA,"","","",ZA,NETBANK,"",27117104710,""
 492505,VISA,"","","",NO,POSTBANKEN,"",4791504800,""
