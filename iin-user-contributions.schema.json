@@ -32,7 +32,7 @@
             "name": "card_category",
             "constraints": { 
               "required": false,
-              "pattern": "\\A(|CLASSIC|STANDARD|PRESTIGE|PLATINUM)\\Z"
+              "pattern": "\\A(CLASSIC|STANDARD|PRESTIGE|PLATINUM)\\Z"
             }
         },
         {
