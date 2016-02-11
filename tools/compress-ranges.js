@@ -16,13 +16,7 @@ rows
 	.on('data', function( row ){
 		if (!buffer){
 			buffer = row;
-		} else if ((+buffer.iin_end || +buffer.iin_start) + 1 === +row.iin_start
-			&& row.iin_start.length === buffer.iin_start.length
-			&& equal(Object.assign({}, buffer, {
-				iin_start: row.iin_start,
-				iin_end: '',
-			}), row)
-		) {
+		} else if (proceeds(buffer, row)) {
 			buffer.iin_end = row.iin_start;
 		} else {
 			out.write(buffer);
@@ -33,3 +27,20 @@ rows
 		out.write(buffer);
 		out.write(null);
 	});
+
+
+function proceeds( first, second ){
+	if ((+first.iin_end || +first.iin_start) + 1 !== +second.iin_start)
+		return;
+
+	if (second.iin_start.length !== first.iin_start.length)
+		return;
+
+	if (!equal(Object.assign({}, first, {
+			iin_start: second.iin_start,
+			iin_end: '',
+		}), second))
+		return;
+
+	return true;
+}
