@@ -17,7 +17,7 @@ rows
 		if (!buffer){
 			buffer = row;
 		} else if (proceeds(buffer, row)) {
-			buffer.iin_end = row.iin_start;
+			buffer.iin_end = row.iin_end || row.iin_start;
 		} else {
 			out.write(buffer);
 			buffer = row;
@@ -38,7 +38,7 @@ function proceeds( first, second ){
 
 	if (!equal(Object.assign({}, first, {
 			iin_start: second.iin_start,
-			iin_end: '',
+			iin_end: second.iin_end,
 		}), second))
 		return;
 
