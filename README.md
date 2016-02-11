@@ -3,14 +3,15 @@ binlist-data
 
 [![Build status](https://api.travis-ci.org/binlist/binlist-data.svg)][BUILDSTATUS]
 
-A public repository of Issuer Identification Numbers ([IIN][IIN]) also 
-called the "Bank Identification Numbers" ([BIN][BIN]).
+A public repository of Issuer Identification Numbers ([IIN][IIN]) also called
+the "Bank Identification Numbers" ([BIN][BIN]).
 
 Contributing
 ============
-1. Open the `iin-user-contributions.csv`
-2. Edit or Add your entry and make sure to keep the file alphabetical sorted by IIN/BIN.
-3. Test that everything works as expected by running `bundle exec csvlint -d -s iin-user-contributions.schema.json iin-user-contributions.csv` and `rake`
+
+1. Open the `ranges.csv`
+2. Edit or add your entry and make sure to keep the file alphabetical sorted by IIN/BIN.
+3. Test that everything works as expected by running `npm test`
 4. Send a pull request.
 
 ## Known issues
@@ -19,15 +20,17 @@ Contributing
 
 ## Reach out
 
-Doing anything interesting with binlist or want to share your favorite tips and tricks? Please checkout the wiki then and feel free to reach out with ideas for features or requests.
+Doing anything interesting with binlist, or want to share your favorite tips
+and tricks? Please open an issue and we will add a section to the README.
 
 Credits
 =======
+
 This repository is part of http://www.binlist.net/
 
 ## LICENSE
 
-Copyright 2014 binlist.net All Rights Reserved.
+Copyright 2016 binlist.net All Rights Reserved.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

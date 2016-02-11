@@ -1,15 +1,5 @@
-language: ruby
-sudo: false
-rvm:
-  - 2.2.2
-before_install:
-  - 'echo ''gem: --no-ri --no-rdoc'' > ~/.gemrc'
-cache: bundler
-install:
-  - bundle install
-script:
-  - csvlint -d -s iin-user-contributions.schema.json iin-user-contributions.csv
-  - "for file in `ls *.csv` ; do csvlint $file ; done"
-  - rake
+language: node_js
+node_js:
+  - "stable"
 notifications:
   - email: false
