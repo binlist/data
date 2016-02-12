@@ -2,8 +2,9 @@
 	"scripts": {
 		"build:countries": "mkdir -p ./build && csv-parser ./countries.csv | JSONStream > ./build/countries.json",
 		"build:schemes": "mkdir -p ./build && csv-parser ./schemes.csv | JSONStream > ./build/schemes.json",
-		"build": "npm run -s build:countries && npm run -s build:schemes",
-		"check-ranges": "npm run -s build && node ./tools/check-ranges < ./ranges.csv",
+		"build:ranges": "mkdir -p ./build && csv-parser ./ranges.csv | JSONStream > ./build/ranges.json",
+		"build": "npm run -s build:countries && npm run -s build:schemes && npm run -s build:ranges",
+		"check-ranges": "npm run -s build:countries && npm run -s build:schemes && node ./tools/check-ranges < ./ranges.csv",
 		"test": "npm run -s check-ranges"
 	},
 	"dependencies": {
