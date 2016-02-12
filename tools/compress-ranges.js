@@ -3,31 +3,29 @@
 const equal = require('deep-equal');
 const fromCsv = require('csv-parser');
 const toCsv = require('csv-write-stream');
-
-const rows = process.stdin.pipe(fromCsv());
-
-const out = toCsv();
-
-out.pipe(process.stdout);
+const through = require('through2').obj;
 
 let buffer = null;
 
-rows
-	.on('data', function( row ){
+process.stdin
+	.pipe(fromCsv())
+	.pipe(through(function( row, e, cb ){
 		if (!buffer){
 			buffer = row;
 		} else if (proceeds(buffer, row)) {
 			buffer.iin_end = row.iin_end || row.iin_start;
 		} else {
-			out.write(buffer);
+			this.push(buffer);
 			buffer = row;
 		}
-	})
-	.on('finish', function(){
-		out.write(buffer);
-		out.write(null);
-	});
 
+		cb();
+	}, function( cb ){
+		this.push(buffer);
+		cb();
+	}))
+	.pipe(toCsv())
+	.pipe(process.stdout);
 
 function proceeds( first, second ){
 	if ((+first.iin_end || +first.iin_start) + 1 !== +second.iin_start)
