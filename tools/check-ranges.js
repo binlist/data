@@ -32,8 +32,12 @@ process.stdin
 		else if (!row.iin_start.match(/^[0-9]{1,8}$/))
 			error('bad start IIN: %s', count, row.iin_start);
 
-		if (row.iin_end && !row.iin_end.match(/^[0-9]{1,8}$/))
-			error('bad end IIN: %s', count, row.iin_end);
+		if (row.iin_end) {
+			if (!row.iin_end.match(/^[0-9]{1,8}$/))
+				error('bad end IIN: %s', count, row.iin_end);
+			else if (row.iin_end.length !== row.iin_start.length)
+				error('start and end IIN should have the same length', count);
+		}
 
 		if (row.type && !~types.indexOf(row.type))
 			error('unknown type: %s', count, row.type);
@@ -43,6 +47,9 @@ process.stdin
 
 		if (row.prepaid && !~[ 'n', 'y' ].indexOf(row.prepaid))
 			error('bad prepaid (y/n): %s', count, row.prepaid);
+
+		if (row.prepaid === 'y' && row.type !== 'DEBIT')
+			error('a prepaid card must be of type DEBIT', count);
 
 		previous = row;
 	});
