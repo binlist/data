@@ -1,6 +1,6 @@
 {
 	"scripts": {
-		"build:countries": "csv-parser ./countries.csv | JSONStream > ./build/countries.json",
+		"build:countries": "node ./tools/csv-countries-to-json.js < ./countries.csv > ./build/countries.json",
 		"build:schemes": "csv-parser ./schemes.csv | JSONStream > ./build/schemes.json",
 		"build:ranges": "csv-parser ./ranges.csv | JSONStream > ./build/ranges.json",
 		"build": "npm run -s build:countries && npm run -s build:schemes && npm run -s build:ranges",
