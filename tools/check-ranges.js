@@ -3,8 +3,8 @@
 const fs = require('fs');
 const csv = require('csv-parser');
 
-const countries = require('./build/countries.json').map(c => c.alpha2);
-const schemes = require('./build/schemes.json').map(c => c.name);
+const countries = require('../build/countries.json').map(c => c.alpha2);
+const schemes = require('../build/schemes.json').map(c => c.name);
 
 const types = [ 'CREDIT', 'DEBIT' ];
 
