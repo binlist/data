@@ -24,8 +24,8 @@ process.stdin
 		if (!~schemes.indexOf(row.scheme))
 			error('unknown scheme: %s', count, row.scheme);
 
-		if (row.number_length && row.number_length.match(/^[1-9][0-9]{12,18}$/))
-			error('bad card number length: %s', count, number_length);
+		if (row.number_length && !row.number_length.match(/^1?[3-9]$/))
+			error('bad card number length: %s', count, row.number_length);
 
 		if (!row.iin_start)
 			error('missing start IIN', count);
