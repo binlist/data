@@ -4140,6 +4140,7 @@ iin_start,iin_end,number_length,scheme,brand,type,prepaid,country,bank_name,bank
 45719893,45719898,,VISA,Visa/Dankort,DEBIT,,DK,Spar Nord,,www.sparnord.dk,,
 45719899,,,VISA,Visa/Dankort,DEBIT,,DK,BankNordik,,www.banknordik.dk,+4576978000,Aarhus C
 45719942,,,VISA,Visa/Dankort,DEBIT,,DK,Diba Bank,,www.diba.dk,,
+457241,,,VISA,,DEBIT,,SE,Länsförsäkringar Skåne,,www.lansforsakringar.se/skane/,46406338000,Malmö
 457274,,,VISA,,DEBIT,,IN,ICICI,,,,
 457356,,,VISA,,CREDIT,,AU,QANTAS STAFF CREDIT UNION,,,61295823200,
 457631,,,VISA,,CREDIT,,BR,BANCODOBRASIL,,,,
