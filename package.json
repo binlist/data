@@ -1,17 +1,12 @@
 {
+	"name": "binlist-data",
+	"repository": "binlist/data",
 	"scripts": {
-		"build:countries": "node ./tools/csv-countries-to-json.js < ./countries.csv > ./build/countries.json",
-		"build:schemes": "csv-parser ./schemes.csv | JSONStream > ./build/schemes.json",
-		"build:ranges": "csv-parser ./ranges.csv | JSONStream > ./build/ranges.json",
-		"build": "npm run -s build:countries && npm run -s build:schemes && npm run -s build:ranges",
-		"check-ranges": "npm run -s build:countries && npm run -s build:schemes && node ./tools/check-ranges < ./ranges.csv",
+		"check-ranges": "node ./tools/check-ranges < ./ranges.csv",
 		"test": "npm run -s check-ranges"
 	},
 	"dependencies": {
-		"csv-parser": "^1.9.3",
-		"csv-write-stream": "^1.0.0",
-		"deep-equal": "^1.0.1",
-		"JSONStream": "^1.0.7",
-		"through2-map": "^2.0.0"
+		"csv-parser": "^1.11.0",
+		"iso-3166-1-codes": "^1.0.0"
 	}
 }

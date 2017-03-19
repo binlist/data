@@ -1,50 +1,35 @@
-binlist-data
-=========
+# binlist-data
+
+This repository is part of https://binlist.net where it constitutes roughly 2
+% of the data.
+
+See the website for documentation and examples of how to query the service.
 
 [![Build status](https://api.travis-ci.org/binlist/data.svg)][BUILDSTATUS]
 
 A public repository of Issuer Identification Numbers ([IIN][IIN]) also called
 the "Bank Identification Numbers" ([BIN][BIN]).
 
-Contributing
-============
+## Contributing
 
-1. Open the `ranges.csv`
-2. Edit or add your entry and make sure to keep the file alphabetical sorted by IIN/BIN.
-3. Test that everything works as expected by running `npm test`
-4. Send a pull request.
+1. Edit or add to `ranges.csv` (sorted by IIN/BIN)
+2. Run `npm test`
+3. Open a pull request
 
-## Known issues
+## Related projects
 
-* Increase BIN/IIN range coverage
+- [Binlist.net client (JavaScript)](https://github.com/paylike/binlookup)
+- [Luhn (ISO/IEC 7812-1) checker and algorithm](https://github.com/paylike/luhn)
+- [ISO 3166-1 (country) codes](https://github.com/srcagency/iso-3166-1-codes)
+- [Map of countries to currencies](https://github.com/srcagency/country-currencies)
+- [Longitude and latitude of ISO countries](https://github.com/srcagency/country-coords)
+- [Emoji flags from ISO 3166-1 alpha2 code](https://github.com/srcagency/country-to-emoji-flag)
+- [Localized amount formatting (JavaScript)](https://github.com/srcagency/amount-format)
 
 ## Reach out
 
 Doing anything interesting with binlist, or want to share your favorite tips
 and tricks? Please open an issue and we will add a section to the README.
-
-Credits
-=======
-
-This repository is part of http://www.binlist.net/
-
-## LICENSE
-
-Copyright 2016 binlist.net All Rights Reserved.
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-
-
 
 [BIN]: http://en.wikipedia.org/wiki/Bank_card_number
 [IIN]: http://en.wikipedia.org/wiki/Bank_card_number
