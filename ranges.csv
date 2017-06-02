@@ -4,7 +4,9 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 360218,,,,diners,Diners Club International,credit,,EC,DINERS CLUB DEL ECUADOR S.A.,,www.dinersclub.com.ec,+593 2 297 3100,Quito
 360324,,,,diners,Diners Club International,credit,,CO,Banco Davivienda S.A.,,www.davivienda.com,+57 1 3383838,Bogota D.C.
 361766,,,,diners,Diners Club,credit,,CZ,DINERS CLUB INTERNATIONAL CS,,www.dinersclub.cz,+420 255 712 712,PRAGUE
-370245,,,,amex,American Express,credit,,VE,BANESCO BANCO UNIVERSAL S.A.,,www.banesco.com,+58 212 501 11 11,CARACAS
+370243,,,,amex,American Express,credit,,VE,BANESCO BANCO UNIVERSAL S.A.,,www.banesco.com,+58 212 501 11 11,CARACAS
+370244,,,,amex,American Express Gold,credit,,VE,BANESCO BANCO UNIVERSAL S.A.,,www.banesco.com,+58 212 501 11 11,CARACAS
+370245,,,,amex,American Express Prestige,credit,,VE,BANESCO BANCO UNIVERSAL S.A.,,www.banesco.com,+58 212 501 11 11,CARACAS
 370266,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8662077970,
 371240,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8005253355,
 371241,371242,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8005284800,
