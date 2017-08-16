@@ -115,6 +115,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 374614,,,,amex,,credit,,GB,AMERICAN EXPRESS,,www.americanexpress.com,441273696933,
 374629,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 374632,,,,amex,,credit,,US,BANK OF AMERICA,,www.americanexpress.com,8009006651,
+374692,,,,amex,,credit,,UK,NECTAR,,www.americanexpress.com,,
 374716,,,,amex,,credit,,US,FIDELITY,,www.americanexpress.com,8778117088,
 374720,,,,amex,,credit,,US,BANK OF AMERICA,,www.americanexpress.com,8047883061,
 375001,,,,amex,,credit,,DE,AMERICAN EXPRESS,,www.americanexpress.com,496997971000,
