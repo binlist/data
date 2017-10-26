@@ -5784,6 +5784,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 558987,,,,mastercard,,credit,,US,CHASE,,,8009452027,
 559033,,,,mastercard,,debit,,US,CHASE,,,8002427338,
 559080,,,,mastercard,,credit,,LT,SEB VILNIAUS BANKAS AB,,www.seb.lt,+370 52682800,Lithuania
+559309,,,,mastercard,,credit,,US,BARCLAYCARD US,,,+18665581107
 559405,,,,mastercard,,debit,,IN,ICICI BANK,,www.icicibank.com,+91 22 26531414,Mumbai
 559430,,,,mastercard,,credit,,US,KEESLER FEDERAL CREDIT UNION,,,8885337537,
 559436,,,,mastercard,,credit,,US,AMPLIFY,,,5128365901,
