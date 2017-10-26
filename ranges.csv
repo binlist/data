@@ -1065,6 +1065,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 442868,,,,visa,,credit,,US,BECU,,,2064395700,
 442916,,,,visa,,debit,,US,HAWAII COMMUNITY FEDERAL CREDIT UNION,,,8089307700,
 442959,,,,visa,,credit,,US,,,,608-836-2487,
+443040,,,,visa,,debit,,US,PNC BANK N.A.,,,,
 443041,,,,visa,,debit,,US,PNCBANK,,,8887622265,
 443044,,,,visa,,debit,,US,PNCBANK,,,8887622265,
 443045,,,,visa,,debit,,US,PNC BANK N.A.,,,8887622265,
