@@ -5550,7 +5550,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 548827,,,,mastercard,,credit,,BR,CAIXA ECONOMICA FEDERAL,,,08007284455,
 548853,,,,mastercard,,credit,,US,KEYBANK,,,8005392968,
 548897,,,,mastercard,,credit,,US,CAPITAL ONE,,,5032934037,
-548901,,,,mastercard,,credit,,ES,SANTANDER CENTRAL HISPANO,,,902242424,
+548901,,,,mastercard,,debit,,ES,SANTANDER CENTRAL HISPANO,,,902242424,
 548953,,,,mastercard,,credit,,IS,ISLANDSBANKI,,,4404000,
 548984,,,,mastercard,,credit,,BR,ITAU,,,551140014848,
 548985,,,,mastercard,,credit,,BR,ITAU,,,556232754234,
