@@ -5167,6 +5167,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 531306,,,,mastercard,,debit,y,GB,Wirecard Card Solutions,,www.wirecard-cardsolutions.com,+44 019 1227 5450,Newcastle Upon Tyne
 531334,,,,mastercard,,credit,,TR,BANK ASYA,,,08502224888,
 531414,,,,mastercard,,debit,,IT,BANCA MARCHE,,,,
+531431,,16,,mastercard,,debit,y,CA,Peoples Trust Company,,www.giftcardstore.ca/mastercard,8664668082,
 531446,,,,mastercard,,debit,,QA,,,,,
 531632,,,,mastercard,,credit,,CA,SERVUS CREDIT UNION,,,8005617849,
 531634,,,,mastercard,,credit,,CA,SERVUS CREDIT UNION,,,306 566 1269,
@@ -5530,6 +5531,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 548103,,,,mastercard,,credit,,IT,NEOS BANCA,,,3245636546,
 548117,,,,mastercard,,credit,,ID,CIMB Niaga,,,622114041,
 548234,,,,mastercard,,credit,,MX,BANAMEX,,,8002262639,
+548280,,16,,mastercard,,debit,y,CA,Peoples Trust Company,,www.giftcardstore.ca/mastercard,8664668082,
 548293,,,,mastercard,,credit,,BR,BRADESCO,,,6367227111,
 548322,,,,mastercard,,credit,,SA,RIYAD,,,00966920002470,
 548339,,,,mastercard,,credit,,DE,COMMERZBANK,,,01805638888,
@@ -5586,6 +5588,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 549447,,,,mastercard,,credit,,US,ICUL SERVICE CORPORATION,,,727-556-9000,
 549639,,,,mastercard,,credit,,MX,BANAMEX,,,,
 549650,,,,mastercard,,debit,,US,GLOBAL CREDIT UNION,,,8006764562,
+549693,,16,,mastercard,,debit,y,CA,All Trans Financial Services Credit Union Ltd.,,www.giftcardstore.ca/mastercard,8664668082,
 549694,,,,mastercard,,credit,,US,"CREDIT UNION CARD SERVICES, INC.",,,608-836-2200,
 549703,,,,mastercard,,credit,,DE,DEUTSCHER SPARKASSEN UND GIROVERBAND,,,030202250,
 549708,,,,mastercard,,credit,,DE,STADTSPARKASSE DÜSSELDORF,,,4968193764599,
