@@ -4864,6 +4864,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 516056,,,,mastercard,,credit,,MY,CITIBANK,,,6032383000,
 516075,,,,mastercard,,credit,,CA,CAPITAL ONE BANK OF CANADA BRANCH,,,,
 516230,,,,mastercard,,credit,,BR,NUBANK,,www.nubank.com.br,,Sao Paulo
+516292,,,,mastercard,,credit,,BR,NUBANK,,www.nubank.com.br,,Sao Paulo
 516296,,,,mastercard,,debit,,AU,,,,61 2 9374 7082,
 516310,,,,mastercard,,credit,,AU,WESTPAC,,,61363451999,
 516319,,,,mastercard,,credit,,AU,WESTPAC,,,61363451419,
