@@ -5723,6 +5723,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 554722,,,,mastercard,,credit,,BR,ITAU,,,,
 554764,,,,mastercard,,credit,,MX,IXE BANCO,,,,
 554773,,,,mastercard,,credit,,BR,Banco de Brasília,,,55,
+554811,,,,mastercard,,debit,prepaid,IT,Poste Italiane,,www.poste.it,,
 554827,,,,mastercard,,debit,,SG,POSB,,,6563396666,
 554900,,,,mastercard,,credit,,MX,SANTANDER,,,51694300,
 554906,,,,mastercard,,credit,,BR,BANCO DO BRASIL,,,551128457820,
