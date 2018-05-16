@@ -12,6 +12,7 @@ const schemes = new Set([
 	'discover',
 	'unionpay',
 	'jcb',
+	'rupay',
 ]);
 
 const types = new Set([ 'credit', 'debit' ]);
