@@ -6,6 +6,7 @@
 		"test": "npm run -s check-ranges"
 	},
 	"dependencies": {
+		"csv-parse": "^2.4.0",
 		"csv-parser": "^1.11.0",
 		"iso-3166-1-codes": "^1.0.0"
 	}
