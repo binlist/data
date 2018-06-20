@@ -5157,6 +5157,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 531157,,,,mastercard,,credit,,TR,FINANSBANK,,,08502220900,
 531174,,,,mastercard,,credit,,IT,UBI BANCA,,,800612424,
 531200,,,,mastercard,,credit,,GB,CAPITAL ONE,,www.capitalone.co.uk,,Nottingham
+531247,,,,mastercard,,debit,,IT,UNICREDIT S.P.A.,,www.unicredit.it,,
 531250,531251,,,mastercard,,debit,,US,BANK OF AMERICA,,,8006228731,
 531254,,,,mastercard,,debit,,US,BANKOFAMERICA,,,8004321000,
 531255,,,,mastercard,,debit,,US,BANK OF AMERICA,,,8004321000,
