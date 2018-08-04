@@ -5788,6 +5788,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 559430,,,,mastercard,,credit,,US,KEESLER FEDERAL CREDIT UNION,,,8885337537,
 559436,,,,mastercard,,credit,,US,AMPLIFY,,,5128365901,
 559460,,,,mastercard,,credit,,US,CO-OP Financial Services,,www.co-opfs.org, +1 800 782 9042, Rancho Cucamonga
+559911,,16,,mastercard,Tap & Go,debit,y,HK,HKT Payment Limited,,www.tapngo.com.hk,+852 28880000 , Hong Kong
 601100,,,,discover,,credit,,US,DISCOVER,,,8003472683,
 601110,,,,discover,,credit,,US,,,,,
 601120,,,,discover,,credit,,US,DISCOVER,,,8003472683,
