@@ -5233,6 +5233,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 536225,,,,mastercard,,debit,,US,"CITIBANK SOUTH DAKOTA, N.A.",,,8882484465,
 536227,,,,mastercard,,debit,,US,"CITIBANK SOUTH DAKOTA, N.A.",,,8882484465,
 536339,,,,mastercard,,credit,,US,,,,,
+536414,,,,mastercard,,debit,,IT,"Poste Italiane",,,,
 536424,,,,mastercard,,credit,,BR,,,,,
 536990,,,,mastercard,,credit,,US,CHASE,,,8005243880,
 537021,,,,mastercard,,credit,,US,,,,,
