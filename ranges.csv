@@ -1,5 +1,4 @@
 iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,bank_name,bank_logo,bank_url,bank_phone,bank_city
-543454,,16,,mastercard,Pleo Mastercard,debit,y,GB,IDT Financial Services,,,,
 341142,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 342562,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 360218,,,,diners,Diners Club International,credit,,EC,DINERS CLUB DEL ECUADOR S.A.,,www.dinersclub.com.ec,+593 2 297 3100,Quito
@@ -5376,6 +5375,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 543435,,,,mastercard,,credit,,US,M & I MADISON BANK OF SOUTHERN WISCONSIN,,,800-441-7048,
 543440,,,,mastercard,,credit,,CA,WALMART,,,8883316133,
 543448,,,,mastercard,,credit,,CO,CITIBANK,,,8006210295,
+543454,,16,,mastercard,Pleo Mastercard,debit,y,GB,IDT Financial Services,,,,
 543460,,,,mastercard,,credit,,GB,HSBC,,,441226261010,
 543560,,,,mastercard,,credit,,SE,Swedbank,,,0771480040,
 543568,,,,mastercard,,credit,,AU,BANKWEST,,,131718,
