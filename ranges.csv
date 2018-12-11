@@ -4856,6 +4856,8 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 515601,,,,mastercard,,credit,,BR,UNICRED,,,,
 515664,,,,mastercard,,credit,,US,CABRILLO CREDIT UNION,,,,
 515735,,,,mastercard,,credit,,US,CITI,,,8665805802,
+515859,,,,mastercard,GOLD,credit,,IT,ING BANK N.V.,,https://www.ing.it/,848580166,
+515859,,,,mastercard,,credit,,IT,ING,,,6132175200
 515878,,,,mastercard,,credit,,ES,DEUTSCHE,,,933076634,
 515891,,,,mastercard,,credit,,BR,BANCO DO BRASIL,,,8003077309,
 515894,,,,mastercard,,credit,,BR,BANCO COOPERATIVO DO BRASIL S/A ,,,6132175200,
