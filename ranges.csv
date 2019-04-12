@@ -4212,6 +4212,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 463097,,,,visa,,debit,,US,THE CITIZENS,,,6013893290,
 463158,,,,visa,,debit,,US,BBVA COMPASS,,,8002667277,
 463288,,,,visa,,debit,,US,"BANK OF AMERICA, NATIONAL ASSOCIATION",,,1,
+463405,,,,visa,,debit,,US,"BRANCH BANK & TRUST",,,8002265228,
 463491,,,,visa,,debit,,US,METABANK,,,8007337152,
 463550,463551,,,visa,,debit,,US,"BANK OF AMERICA, NATIONAL ASSOCIATION",,,8006228731,
 463552,,,,visa,,debit,,US,"BANK OF AMERICA, NATIONAL ASSOCIATION",,,5035334400,
