@@ -5225,6 +5225,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 535318,,,,mastercard,,credit,,AU,COMMONWEALTH BANK OF AUSTRALIA,,,61132221,
 535319,,,,mastercard,,credit,,AU,COMMONWEALTH BANK OF AUSTRALIA,,,61131576,
 535450,,,,mastercard,,debit,,US,,,,,
+535528,,,,mastercard,,debit,,GB,MONZO,,www.monzo.com,+448008021281,LONDON
 535875,,,,mastercard,,credit,,US,,,,,
 535953,,,,mastercard,,debit,,PL,SKRILL,,,,
 536116,,,,mastercard,,debit,,US,,,,,
