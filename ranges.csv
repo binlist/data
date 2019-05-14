@@ -5211,6 +5211,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 534013,,,,mastercard,,credit,,US,EQUIETY,,,,
 534126,,,,mastercard,,credit,,NL,ABN-AMRO,,,31206600123,
 534207,,,,mastercard,,debit,,IT,INTESA SANPAOLO,,,800444223,
+534232,,,,mastercard,,debit,,IT,BANCA SELLA,,,01535011,
 534244,,,,mastercard,,credit,,SE,ICABANKEN,,,004633474790,
 534246,,,,mastercard,,credit,,BR,,,,,
 534249,,,,mastercard,,credit,,BR,,,,,
