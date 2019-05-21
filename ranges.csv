@@ -652,6 +652,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 421075,,,,visa,,debit,,US,MARINE FEDERAL CREDIT UNION,,,8002253967,
 421168,,,,visa,,credit,,ID,BUKOPIN,,,622156957747,
 421316,,,,visa,,debit,,MX,HSBC,,,018007124825,
+421329,,,,visa,,debit,,IN,ICICI BANK,,www.icicibank.com,912226531414,
 421364,,,,visa,,credit,,MX,BANCO AZTECA ,,,525554478810,
 421368,,,,visa,,debit,,IN,UNION BANK OF INDIA,,,1800222244,
 421409,,,,visa,,debit,,IN,BANK OF MAHARASHTRA,,,1800222340,
