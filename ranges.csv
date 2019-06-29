@@ -1098,6 +1098,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 443911,,,,visa,,debit,,AE,EMIRATES NBD,,,971600540000,
 443913,,,,visa,,debit,,AE,EMIRATES NBD,,,00971600540000,
 444054,,,,visa,,credit,,BR,ITAU,,,551140014848,
+444111,,,,visa,,debit,,UA,MONOBANK,,,,
 444296,,,,visa,,debit,,US,MERRILL LYNCH,,,8002624636,
 444395,,,,visa,,credit,,US,BANK OF AMERICA,,,8666171859,
 444444,,,,visa,,credit,,PL,,,,,
