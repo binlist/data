@@ -5796,6 +5796,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 601138,,,,discover,,credit,,US,DISCOVER,,,8883332201,
 601140,,,,discover,,debit,,US,DISCOVER CARD,,,8003472683,
 601149,,,,discover,,credit,,US,DISCOVER,,,8003472683,
+601660,,,,mastercard,,debit,CO,Bancolombia,,www.grupobancolombia.com,018000910090,Colombia
 621483,,,,unionpay,,debit,,CN,CHINA MERCHANTS BANK,,www.cmbchina.com,+86 95555,Shenzhen
 622202,,,,unionpay,,debit,,CN,ICBC,,www.icbc.com.cn,+86 95588,Beijing
 622305,,,,unionpay,,debit,,CN,BANK OF NANJING,,www.njcb.com.cn,+86 96400,Nanjing
