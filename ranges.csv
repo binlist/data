@@ -5077,6 +5077,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 526863,,,,mastercard,,credit,,BR,ITAU,,,CENTRAL FAX: 4163696305,
 526948,,,,mastercard,,credit,,NO,Nordea,,,4791506001,
 526973,,,,mastercard,,credit,,TR,,,,,
+527346,,16,,mastercard,Platinum,debit,y,GB,Revolut Ltd,,https://revolut.com,,
 527368,,,,mastercard,,debit,,US,GREEN DOT,,,8779374098,
 527395,,,,mastercard,,debit,,US,GREEN DOT,,,8779374098,
 527407,,,,mastercard,,credit,,BR,ITAU,,,40014445,
