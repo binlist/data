@@ -4168,6 +4168,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 459078,,,,visa,,credit,,BR,ITAU,,,,
 459080,,,,visa,,credit,,BR,ITAU,,,8003969665,
 459419,,,,visa,,credit,,CO,BBVA,,,5714010000,
+459805,,16,,visa,,debit,y,UA,JSCB INDUSTRIALBANK,,www.industrialbank.ua,0800503535,
 459907,,,,visa,,credit,,KR,,,,82-2-7560505,
 459914,,,,visa,,credit,,MY,UNITED OVERSEAS BANK (MALAYSIA) BHD,,,60326128121,
 459984,,,,visa,,credit,,ES,CAJA RURAL,,,902310902,
