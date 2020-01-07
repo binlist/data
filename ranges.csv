@@ -5289,6 +5289,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 540313,,,,mastercard,,debit,,US,FARMERS MERCHANTS BANK OF LONG BEACH,,,7144653131,
 540324,,,,mastercard,,debit,,US,BANK OF THE WEST,,,8004882265,
 540385,,,,mastercard,,debit,,US,CITIBANK,,,8009450258,
+540403,,,,mastercard,,debit,,AU,MEMBERS EQUITY BANK,,www.mebank.com.au,+61397084001,
 540404,,,,mastercard,,debit,,US,FIRST HAWAIIAN BANK,,,8088444444,
 540444,,,,mastercard,,credit,,CH,CREDIT SUISSE,,,41446596087,
 540445,,,,mastercard,,credit,,CH,CREDIT SUISSE,,,41446596366,
