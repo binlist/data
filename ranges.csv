@@ -1170,6 +1170,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 447952,,,,visa,,debit,,US,PEOPLE'S ALLIANCE FEDERAL CREDIT UNION,,,7186434506,
 447971,447972,,,visa,,debit,,US,TCFBANK,,,8008232265,
 447993,,,,visa,,credit,,US,BANANA REPUBLIC,,,8664502335,
+448008,,,,visa,,credit,,ZA,FIRSTRAND BANK LTD,,,0875759404,
 448034,,,,visa,,debit,,US,COVANTAGE CREDIT UNION,,,8003982667,
 448055,,,,visa,,debit,,US,WCCU,,,8003838000,
 448110,,,,visa,,credit,,US,MOUNTAIN AMERICA CREDIT UNION,,,800-7484302,
