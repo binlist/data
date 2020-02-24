@@ -4991,6 +4991,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 522688,,,,mastercard,,credit,,RU,,,,,
 522832,,,,mastercard,,credit,,CL,BANCO DE CHILE,,,6006373737,
 522840,,,,mastercard,,credit,,BR,SANTANDER,,,8003077309,
+522902,,,,mastercard,,credit,,ZA,NEDBANK, LTD.
 523206,,,,mastercard,,credit,,DE,EURO KARTENSYSTEME EUROCARD UND EUROCHEQUE GMBH,,,49 69 7922 0,
 523227,,,,mastercard,,credit,,DE,DEUTSCHE,,,018181000,
 523229,,,,mastercard,,credit,,DE,EURO KARTENSYSTEME GMBH,,,498988956009,
