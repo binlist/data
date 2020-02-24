@@ -1181,6 +1181,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 448241,,,,visa,,debit,,US,1ST SUMMIT BANK,,,8147366665,
 448261,,,,visa,,debit,,US,SCBT,,,8888472265,
 448275,,,,visa,,debit,,US,TDBANK,,,888-751-9000,
+448387,,,,visa,,debit,,ZA,ABSA GROUP, LTD.
 448381,,,,visa,,credit,,ZA,FIRST NATIONAL,,,27112455080,
 448461,,,,visa,,credit,,US,WELLS FARGO,,,8002315511,
 448500,,,,visa,,credit,,US,COMMERCE BANK N.A.,,,8008927104,
