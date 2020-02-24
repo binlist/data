@@ -821,6 +821,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 430854,,,,visa,,debit,,US,COMERICA BANK,,,800-572-6620,
 430858,,,,visa,,debit,,US,COMERICA BANK,,,8005726620,
 430914,,,,visa,,debit,,US,UIECU,,,2172787700,
+430938,,,,visa,,debit,,ZA,DISCOVERY BANK
 430951,,,,visa,,credit,,JM,,,,55-11-37412420,
 430981,,,,visa,,credit,,ID,PT ANZ PANIN BANK,,,62215721800,
 431067,,,,visa,,credit,,TW,TAISHIN,,,226550999,
