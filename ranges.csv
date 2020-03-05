@@ -5075,6 +5075,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 526835,,,,mastercard,,credit,,US,CAPITAL ONE,,,8004194959,
 526851,,,,mastercard,,credit,,MY,CITIBANK,,,60323830000,
 526863,,,,mastercard,,credit,,BR,ITAU,,,CENTRAL FAX: 4163696305,
+526876,,,,mastercard,,debit,,US,EVOLVE BANK & TRUST,,https://www.getevolved.com,866-546-8273,Memphis
 526948,,,,mastercard,,credit,,NO,Nordea,,,4791506001,
 526973,,,,mastercard,,credit,,TR,,,,,
 527368,,,,mastercard,,debit,,US,GREEN DOT,,,8779374098,
