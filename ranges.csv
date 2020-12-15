@@ -4432,6 +4432,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 480642,,,,visa,,debit,,US,WEST SUBURBAN BANK,,,8002584009,
 480691,,,,visa,,debit,,US,MEMBERSOURSE CREDIT UNION,,,713-627-4000,
 480990,,,,visa,,debit,,US,CHARLES SCHWAB,,,8884039000,
+481045,,,,visa,,credit,,GB,TYMIT,,,,
 481110,,,,visa,,debit,,US,BANK OF HAWAII,,,8886433888,
 481171,,,,visa,,debit,,US,Bancorp Bank,,www.thebancorp.com, +1 866 271 1623, Wilmington
 481581,481583,,,visa,,debit,,US,BANK OF AMERICA,,,8004321000,
