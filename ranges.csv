@@ -4875,6 +4875,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 516724,,,,mastercard,,debit,,US,LENNOX EMPLOYEES CREDIT UNION,,,61 292263268,
 516746,,,,mastercard,,debit,,GE,Bank of Georgia,,www.bankofgeorgia.ge,+995 32 244 44 44,Tbilisi
 516795,,,,mastercard,,debit,,IT,INTESA SANPAOLO,,,61 292263268,
+516840,,,,mastercard,,debit,,TR,AKBANK,,www.akbank.com,4442525,
 516943,,,,mastercard,,debit,,TR,GARANTI,,,4440333,
 516968,,,,mastercard,,debit,,IE,KBC Bank Ireland,,www.kbc.ie,+35316347963,Dublin
 517012,,,,mastercard,,debit,,DK,Sparekassen Kronjylland,,,22148774,
