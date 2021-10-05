@@ -4875,6 +4875,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 516724,,,,mastercard,,debit,,US,LENNOX EMPLOYEES CREDIT UNION,,,61 292263268,
 516746,,,,mastercard,,debit,,GE,Bank of Georgia,,www.bankofgeorgia.ge,+995 32 244 44 44,Tbilisi
 516795,,,,mastercard,,debit,,IT,INTESA SANPAOLO,,,61 292263268,
+516900,516906,,,mastercard,,debit,,FR,SHINE,,,Paris
 516943,,,,mastercard,,debit,,TR,GARANTI,,,4440333,
 516968,,,,mastercard,,debit,,IE,KBC Bank Ireland,,www.kbc.ie,+35316347963,Dublin
 517012,,,,mastercard,,debit,,DK,Sparekassen Kronjylland,,,22148774,
@@ -5254,6 +5255,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 539028,,,,mastercard,,credit,,BR,CITIBANK,,,08007012484,
 539029,,,,mastercard,,credit,,BR,CREDICARD,,,40014611,
 539039,,,,mastercard,,credit,,BR,ITAU,,,551140014848,
+53904400,53904406,,,mastercard,,debit,,FR,SHINE,,,Paris
 539063,,,,mastercard,,credit,,BR,CITICARD,,,40014611,
 539066,,,,mastercard,,credit,,BR,,,,551132353737,
 539068,,,,mastercard,,credit,,BR,BANCO CITICARD SA,,,551140014626,
