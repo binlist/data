@@ -525,6 +525,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 413718,413719,,,visa,,credit,,ID,MANDIRI,,,14000,
 413753,,,,visa,,debit,,US,,,,3216639360,
 413757,,,,visa,,debit,,US,MVBBANK,,,3046579903,
+413889,,,,visa,,credit,,CA,BMO,8002632263
 413900,,,,visa,,debit,,US,IFCU,,,7655322003,
 413966,,,,visa,,debit,,US,COMMSTAR CREDIT UNION,,,4409601111,
 414049,,,,visa,,debit,,RO,BANCA TRANSILVANIA,,,0040264594337,
