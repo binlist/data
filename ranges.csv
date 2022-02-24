@@ -5803,4 +5803,9 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 651621,,,,discover,,credit,,US,DISCOVER,,,8003472683,
 655066,,,,discover,,credit,,US,DISCOVER,,,8003472683,
 659524,,,,discover,,credit,,US,DISCOVER,,,8003472683,
-670686,,,,mastercard,Maestro,debit,,DE,Fidor Bank AG,,www.fidor.de,+49116116,München
+670686,,,,mastercard,Maestro,debit,,DE,Fidor Bank AG,,www.fidor.de,+49116116,München,
+402763,,,,visa,Prepaid card ,debit, y,JO,Capital Bank of Jordan,,https://www.capitalbank.jo/,,Amman,
+408223,,,,visa,Platinum,credit,,JO,Capital Bank of Jordan,,https://www.capitalbank.jo/,,Amman,
+420336,,,,visa,Platinum ,debit,,JO,Capital Bank of Jordan,,https://www.capitalbank.jo/,,Amman,
+461210,,,,visa,Infinite,credit,,JO,Capital Bank of Jordan,,https://www.capitalbank.jo/,,Amman,
+472268,,,,visa,Business,credit,,JO,Capital Bank of Jordan,,https://www.capitalbank.jo/,,Amman
