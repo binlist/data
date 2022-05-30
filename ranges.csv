@@ -5707,6 +5707,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 552727,,,,mastercard,,credit,,PT,,,,351,
 552851,,,,mastercard,,credit,,US,CAPITAL ONE,,,8009557070,
 552952,,,,mastercard,,credit,,US,COMERICA,,,8883526455,
+553395,,,,mastercard,,credit,,GB,YONDER,,,,
 553636,,,,mastercard,,credit,,BR,ITAU,,,551121554828,
 553645,,,,mastercard,,credit,,BR,CAIXA ECONOMICA FEDERAL,,,,
 553693,553694,,,mastercard,,debit,,US,SUNTRUST,,,8007868787,
