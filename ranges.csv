@@ -245,6 +245,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 379728,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 379734,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8002570770,
 379744,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,8882583741,
+379823,,,,amex,,credit,,US,AMERICAN EXPRESS,,www.americanexpress.com,,
 400022,,,,visa,,debit,,US,NAVY FEDERAL CREDIT UNION,,,8888426328,
 400163,,,,visa,,debit,,BR,BANCO DO BRASIL,,,3039671096,
 400177,,,,visa,,debit,,US,ELGA CREDIT UNION,,,8008826457,
