@@ -555,7 +555,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 414781,,,,visa,,credit,,US,USBANK,,,8663594771,
 414912,,,,visa,,debit,,DE,FRANKFURTER SPARKASSE,,,49116116,
 414930,,,,visa,,debit,,US,TECHE FEDERAL,,,8008970315,
-414949,,,,visa,,debit,,UA,PRIVATBANK,,,380567161131,
+414949,,16,,visa,,credit,,UA,PRIVATBANK,https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%91%D0%B0%D0%BD%D0%BA.png,www.privatbank.ua,+380737161131,Дніпро
 414962,,16,,visa,,credit,,UA,PRIVATBANK,https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%91%D0%B0%D0%BD%D0%BA.png,www.privatbank.ua,+380737161131,Дніпро
 415001,,,,visa,,credit,,ES,CAJAMAR,,,902210303,
 415006,,,,visa,,debit,,ES,CAJAMAR,,,667909771,
