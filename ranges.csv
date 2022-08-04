@@ -555,7 +555,8 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 414781,,,,visa,,credit,,US,USBANK,,,8663594771,
 414912,,,,visa,,debit,,DE,FRANKFURTER SPARKASSE,,,49116116,
 414930,,,,visa,,debit,,US,TECHE FEDERAL,,,8008970315,
-414949,,,,visa,,debit,,UA,PRIVATBANK,,,380567161131,
+414949,,16,,visa,,credit,,UA,PRIVATBANK,https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%91%D0%B0%D0%BD%D0%BA.png,www.privatbank.ua,+380737161131,Дніпро
+414962,,16,,visa,,credit,,UA,PRIVATBANK,https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%91%D0%B0%D0%BD%D0%BA.png,www.privatbank.ua,+380737161131,Дніпро
 415001,,,,visa,,credit,,ES,CAJAMAR,,,902210303,
 415006,,,,visa,,debit,,ES,CAJAMAR,,,667909771,
 415079,,,,visa,,credit,,BH,AHLI UNITED BANK (BAHRAIN) B.S.C.,,,0097317221999,
@@ -704,6 +705,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 423974,,,,visa,,debit,,US,GHS FEDERAL CREDIT UNION,,,8007324447,
 423999,,,,visa,,debit,,US,ROGUE FEDERAL CREDIT UNION,,,5418587328,
 424327,,,,visa,,credit,,NO,SKANDIABANKEN,,,4755260000,
+424600,,16,,visa,,credit,,UA,PRIVATBANK,https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%91%D0%B0%D0%BD%D0%BA.png,www.privatbank.ua,+380737161131,Дніпро
 424604,,,,visa,,credit,,US,U.S. BANK N.A. ND,,,8003445696,
 424631,,,,visa,,credit,,US,CHASE,,,8003465538,
 424671,,,,visa,,debit,,PL,,,,48323576012,
@@ -1098,6 +1100,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 443911,,,,visa,,debit,,AE,EMIRATES NBD,,,971600540000,
 443913,,,,visa,,debit,,AE,EMIRATES NBD,,,00971600540000,
 444054,,,,visa,,credit,,BR,ITAU,,,551140014848,
+444111,,16,,visa,,credit,,UA,OJSC UNIVERSAL BANK,https://upload.wikimedia.org/wikipedia/commons/0/0e/Monobank_-_Universal_Bank.svg,www.monobank.ua,+380442372060,Дніпро
 444296,,,,visa,,debit,,US,MERRILL LYNCH,,,8002624636,
 444395,,,,visa,,credit,,US,BANK OF AMERICA,,,8666171859,
 444444,,,,visa,,credit,,PL,,,,,
@@ -4875,6 +4878,9 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 516724,,,,mastercard,,debit,,US,LENNOX EMPLOYEES CREDIT UNION,,,61 292263268,
 516746,,,,mastercard,,debit,,GE,Bank of Georgia,,www.bankofgeorgia.ge,+995 32 244 44 44,Tbilisi
 516795,,,,mastercard,,debit,,IT,INTESA SANPAOLO,,,61 292263268,
+516874,,16,,mastercard,,credit,,UA,PRIVATBANK,https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%91%D0%B0%D0%BD%D0%BA.png,www.privatbank.ua,+380737161131,Дніпро
+516875,,16,,mastercard,,credit,,UA,PRIVATBANK,https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%91%D0%B0%D0%BD%D0%BA.png,www.privatbank.ua,+380737161131,Дніпро
+516933,,16,,mastercard,,credit,,UA,PRIVATBANK,https://upload.wikimedia.org/wikipedia/commons/7/73/%D0%9F%D1%80%D0%B8%D0%B2%D0%B0%D1%82%D0%91%D0%B0%D0%BD%D0%BA.png,www.privatbank.ua,+380737161131,Дніпро
 516943,,,,mastercard,,debit,,TR,GARANTI,,,4440333,
 516968,,,,mastercard,,debit,,IE,KBC Bank Ireland,,www.kbc.ie,+35316347963,Dublin
 517012,,,,mastercard,,debit,,DK,Sparekassen Kronjylland,,,22148774,
@@ -5239,6 +5245,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 537160,,,,mastercard,,debit,,US,SECURITY SERVICE FEDERAL CREDIT UNION,,,2104764000,
 537167,,,,mastercard,,debit,,US,CHASE,,,8009359935,
 537170,,,,mastercard,,debit,,US,CHASE,,,8009359935,
+537541,,16,,mastercard,,credit,,UA,OJSC UNIVERSAL BANK,https://upload.wikimedia.org/wikipedia/commons/0/0e/Monobank_-_Universal_Bank.svg,www.monobank.ua,+380442372060,Дніпро
 537764,,,,mastercard,,credit,,GE,The Bank of Georgia,,www.bankofgeorgia.ge,,Tbilisi
 537800,,,,mastercard,,credit,,US,BARCLAYS,,,8662502919,
 537811,,,,mastercard,,credit,,US,,,,,
