@@ -1129,6 +1129,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 445475,,,,visa,,credit,,BE,BELFIUS,,,3222058585,
 445785,,,,visa,,debit,,US,FIRST CALIFORNIA,,,01672846759,
 445990,,,,visa,,debit,,US,COMMUNITY 1ST CREDIT UNION,,,8003838000,
+459998,,,,visa,credit,,ES,"BANCO COOPERATIVO ESPANOL, S.A.",,,,
 445999,,,,visa,,debit,,US,FIRST,,,52-5-1746000,
 446024,,,,visa,,debit,,US,"WELLS FARGO BANK IOWA, NATIONAL ASSOCIATION",,,8008693557,
 446031,,,,visa,,credit,,MY,MAYBANK,,,60378443696,
