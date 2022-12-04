@@ -286,6 +286,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 401804,,,,visa,,credit,,US,CITI,,,8009505114,
 401901,,,,visa,,credit,,US,BANK OF AMERICA N.A.,,,8007329194,
 401940,,,,visa,,credit,,US,,,,,
+401971,,,,visa,,debit,,US,BUSEY BANK,,www.busey.com,800.672.8739,
 401982,,,,visa,,debit,,US,LA CAPITAL,,,8889187763,
 402017,,,,visa,,debit,,US,ACNB,,,7178819385,
 402020,,,,visa,,debit,,US,SECU,,,8008797328,
