@@ -5209,6 +5209,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 533875,,,,mastercard,,debit,,IT,PAYPAL,,,199800080,
 533981,,,,mastercard,,debit,,DE,JOKER,,,,
 534013,,,,mastercard,,credit,,US,EQUIETY,,,,
+534605,,,,mastercard,,credit,no,IT,Advanzia Bank S.a.,,,,
 534126,,,,mastercard,,credit,,NL,ABN-AMRO,,,31206600123,
 534207,,,,mastercard,,debit,,IT,INTESA SANPAOLO,,,800444223,
 534244,,,,mastercard,,credit,,SE,ICABANKEN,,,004633474790,
