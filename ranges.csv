@@ -4347,6 +4347,7 @@ iin_start,iin_end,number_length,number_luhn,scheme,brand,type,prepaid,country,ba
 474165,474166,,,visa,,debit,,US,WELLS FARGO,,,8002255935,
 474174,,,,visa,,debit,,MX,BANREGIO,,,8664320550,
 474255,,,,visa,,debit,,US,,,,,
+474340,,,,visa,,credit,,TR,TURKIYE IS BANKASI,,www.isbank.com.tr,4440202,Istanbul
 474426,,,,visa,,credit,,US,FIRST FINANCIAL,,,,
 474440,,,,visa,,debit,,US,PLANTERS,,,8663986824,
 474472,474475,,,visa,,debit,,US,"BANK OF AMERICA, NATIONAL ASSOCIATION",,,8004321000,
